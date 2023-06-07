@@ -1,39 +1,58 @@
 {
-  "sales": [
+  "achats": [
     {
-      "year": 2015,
-      "amount": 5000,
-      "colorcode": "green"
+      "id": "1",
+      "date": "2023-05-20",
+      "heure": "10:30",
+      "produit": "Essence",
+      "quantite": 30,
+      "prix_unitaire": 1.5,
+      "total": 45
     },
     {
-      "year": 2016,
-      "amount": 6000,
-      "colorcode": "yellow"
+      "id": "2",
+      "date": "2023-05-20",
+      "heure": "12:15",
+      "produit": "Diesel",
+      "quantite": 20,
+      "prix_unitaire": 1.2,
+      "total": 24
     },
     {
-      "year": 2017,
-      "amount": 2000,
-      "colorcode": "red"
+      "id": "3",
+      "date": "2023-05-21",
+      "heure": "09:45",
+      "produit": "Super",
+      "quantite": 35,
+      "prix_unitaire": 1.6,
+      "total": 56
     },
     {
-      "year": 2018,
-      "amount": 6500,
-      "colorcode": "blue"
+      "id": "4",
+      "date": "2023-05-21",
+      "heure": "14:20",
+      "produit": "Diesel",
+      "quantite": 15,
+      "prix_unitaire": 1.2,
+      "total": 18
     },
     {
-      "year": 2019,
-      "amount": 4000,
-      "colorcode": "grey"
+      "id": "5",
+      "date": "2023-05-22",
+      "heure": "11:10",
+      "produit": "Essence",
+      "quantite": 25,
+      "prix_unitaire": 1.5,
+      "total": 37.5
     },
     {
-      "year": 2020,
-      "amount": 7000,
-      "colorcode": "orange"
-    },
-    {
-      "year": 2021,
-      "amount": 17000,
-      "colorcode": "pink"
+      "id": "6",
+      "date": "2023-05-22",
+      "heure": "16:45",
+      "produit": "Super",
+      "quantite": 40,
+      "prix_unitaire": 1.6,
+      "total": 64
     }
   ]
 }
