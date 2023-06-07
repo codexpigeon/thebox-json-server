@@ -2,7 +2,7 @@
   "achats": [
     {
       "id": "1",
-      "date": "2023-03-01",
+      "date": "2023-01-03",
       "heure": "09:30",
       "produit": "Essence",
       "quantite": 30,
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "date": "2023-03-05",
+      "date": "2023-01-05",
       "heure": "15:45",
       "produit": "Diesel",
       "quantite": 20,
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "date": "2023-03-10",
+      "date": "2023-02-10",
       "heure": "12:20",
       "produit": "Super",
       "quantite": 35,
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "date": "2023-04-02",
+      "date": "2023-02-12",
       "heure": "08:15",
       "produit": "Essence",
       "quantite": 25,
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "date": "2023-04-10",
+      "date": "2023-03-15",
       "heure": "16:30",
       "produit": "Diesel",
       "quantite": 15,
@@ -47,7 +47,7 @@
     },
     {
       "id": "6",
-      "date": "2023-04-15",
+      "date": "2023-03-18",
       "heure": "10:45",
       "produit": "Super",
       "quantite": 40,
@@ -56,7 +56,7 @@
     },
     {
       "id": "7",
-      "date": "2023-05-03",
+      "date": "2023-05-01",
       "heure": "14:50",
       "produit": "Essence",
       "quantite": 30,
@@ -80,6 +80,51 @@
       "quantite": 35,
       "prix_unitaire": 750,
       "total": 26250
+    },
+    {
+      "id": "10",
+      "date": "2023-06-02",
+      "heure": "08:45",
+      "produit": "Essence",
+      "quantite": 30,
+      "prix_unitaire": 700,
+      "total": 21000
+    },
+    {
+      "id": "11",
+      "date": "2023-06-05",
+      "heure": "14:15",
+      "produit": "Diesel",
+      "quantite": 15,
+      "prix_unitaire": 500,
+      "total": 7500
+    },
+    {
+      "id": "12",
+      "date": "2023-06-05",
+      "heure": "15:15",
+      "produit": "Diesel",
+      "quantite": 15,
+      "prix_unitaire": 500,
+      "total": 7500
+    },
+    {
+      "id": "13",
+      "date": "2023-06-05",
+      "heure": "15:23",
+      "produit": "Essence",
+      "quantite": 10,
+      "prix_unitaire": 700,
+      "total": 7000
+    },
+    {
+      "id": "14",
+      "date": "2023-06-05",
+      "heure": "15:48",
+      "produit": "Super",
+      "quantite": 11,
+      "prix_unitaire": 750,
+      "total": 8250
     }
   ]
 }
